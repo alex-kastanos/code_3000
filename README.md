@@ -1,2 +1,4 @@
 # code_3000
 Collection of Assignments for CSE 3000: Contemporary Issues in Computer Science and Engineering
+
+I believe that ethics in AI should go beyond vague principles and actually guide real decisions and behavior. What stood out to me most is the idea that organizations need to think about “ethical nightmares” to truly understand what they want to avoid, and then build concrete rules and systems around that. I think ethical responsibility in AI means actively preventing harm, especially in areas like bias and privacy, rather than just claiming to value fairness. Ethics should be practical and enforceable, not just statements that look good on paper. Ultimately, I believe that ethical AI requires both clear values and real accountability to ensure those values are actually followed.
